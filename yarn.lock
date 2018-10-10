@@ -170,9 +170,9 @@
     semver "^5.3.0"
     semver-intersect "^1.1.2"
 
-"@types/jest@^23.1.4":
-  version "23.3.1"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-23.3.1.tgz#a4319aedb071d478e6f407d1c4578ec8156829cf"
+"@types/jest@^23.3.6":
+  version "23.3.6"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-23.3.6.tgz#4cfe62743e7fd56de2321d02bb73f87a13b91e06"
 
 "@types/lodash@^4.14.116":
   version "4.14.116"
